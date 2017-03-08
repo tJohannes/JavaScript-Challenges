@@ -8,4 +8,4 @@ function LongestWord(sen) {
     }
     return words;
 }
-console.log("2. ", LongestWord("sam Argument goes in here "))
+console.log(LongestWord("sam Argument goes in here "))
