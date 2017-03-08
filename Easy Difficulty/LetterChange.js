@@ -1,3 +1,7 @@
+//This challenge requires you to change every letter in the string to the letter following
+//it in the alphabet, so a becomes b, z becomes a, etc. Once every letter is changed,
+//we then need to capitalize only the vowels, namely: a, e, i, o, u.
+
 function LetterChange(str) {
 
     var letters = str.replace(/[a-z0-9]/gim, function(char) {
