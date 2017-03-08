@@ -1,4 +1,4 @@
 # JavaScript-Challenges-
-Easy Difficulty problems and solution
+Problems and solution
 
 Practice problems form coderbyte, codecademy, and others 
